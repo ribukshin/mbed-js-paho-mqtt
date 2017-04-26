@@ -1,0 +1,18 @@
+{
+  "name": "mbed-js-paho-mqtt",
+  "version": "0.0.1",
+  "description": "Paho MQTT for JerryScript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbed-js-paho-mqtt.git"
+  },
+  "keywords": [
+    "mbed"
+  ],
+  "author": "Naren",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mbed-js-paho-mqtt/issues"
+  },
+  "homepage": "https://github.com/mbed-js-paho-mqtt#readme"
+}

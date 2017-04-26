@@ -1,0 +1,9 @@
+{
+	"source": [
+		"."
+	],
+	"includes": [
+		"lib_paho_mqtt.h"
+	],
+	"name": "MQTT"
+}

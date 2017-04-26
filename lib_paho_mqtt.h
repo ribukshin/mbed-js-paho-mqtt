@@ -1,0 +1,11 @@
+#ifndef _LIB_MQTT_H
+#define _LIB_MQTT_H
+
+#include "MQTT-js.h"
+
+DECLARE_JS_WRAPPER_REGISTRATION(MQTT)
+{
+  REGISTER_CLASS_CONSTRUCTOR(MQTT);
+}
+
+#endif // _LIB_MQTT_H
